@@ -10,8 +10,8 @@
 # 💻 **GRAPHIC DESIGNER**
 ---
 - 🔭 Becoming **Programmer**
-
- - 🌱 I’m currently learning **Python**
+<!-- 
+ - 🌱 I’m currently learning **Python** -->
 
 - 📫 How to reach me **grootmedias@gmail.com**
 
