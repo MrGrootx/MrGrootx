@@ -14,6 +14,7 @@
  - 🌱 I’m currently learning **Python** -->
 
 - 📫 How to reach me **grootmedias@gmail.com**
+- 🤖 Discord - **Mr Groot#9862**
 
 
 
