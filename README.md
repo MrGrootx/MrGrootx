@@ -40,7 +40,7 @@
 ---
 
   ## 💰 **You can help me by Donating**
-- 💳 Gpay - **mrgroot8@oksbi**
-- 💳 PhonePay - **abishek5557@ybl**
+- 💳 UPI - **mrgroot8@oksbi**
+<!-- - 💳 PhonePay - **abishek5557@ybl** -->
 
 
