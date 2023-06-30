@@ -20,8 +20,6 @@
   <img src="https://profile-counter.glitch.me/MrGrootx/count.svg" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrGrootx&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
   ## 💰 **You can help me by Donating**
 - 💳 UPI - **mrgroot8@oksbi**
