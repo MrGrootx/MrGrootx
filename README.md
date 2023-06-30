@@ -29,7 +29,6 @@
 
 
 <p align="center"> 
-        My GitHub Statst<br>
         <img src="https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
       </p>
 
