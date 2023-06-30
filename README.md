@@ -24,7 +24,9 @@
 
 # 📊 **My GitHub Stats**:
 
-
+<p align="center">
+        <h1># 📊 **My GitHub Stats**:</h1>
+      </p>
 
 <p align="center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
