@@ -1,5 +1,4 @@
-# **_GRooTx_**
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrGrootx&label=Profile%20views&color=0e75b6&style=flat" alt="MrGrootx" /> </p> -->
+# Hey, I'm Groot 👋
 
 
 🌐 **Socials**:
