@@ -25,7 +25,7 @@
 # 📊 **My GitHub Stats**:
 
 <p align="center">
-        <h1># 📊 My GitHub Stats:</h1>
+        <h1>📊 My GitHub Stats:</h1>
       </p>
 
 <p align="center"> 
