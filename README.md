@@ -10,6 +10,12 @@
 - 📫 Email **grootmedias@gmail.com**
 - 🤖 Discord - **Mr Groot#9862**
 
+
+## **DATABASE**
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 # 📊 **My GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrGrootx&theme=dark&hide_border=false)<br/>
