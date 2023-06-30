@@ -29,6 +29,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## **SKILLZ**
+# 📊 **My GitHub Stats**:
+![](https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <!-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF6F00.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
