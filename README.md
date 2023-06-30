@@ -6,7 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://https://discord.gg/Nm5FSxK2gv)
 ## [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5G5dJeO7-dEQ42FbFoItyA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/grootmedias3/) -->
-## 🌐 **Socials**:
+
+##🌐 **Socials**:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://https://discord.gg/Nm5FSxK2gv)
 ---
