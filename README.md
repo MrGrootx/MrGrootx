@@ -9,7 +9,7 @@
 - 📫 Email **grootmedias@gmail.com**
 - 🤖 Discord - **Mr Groot#9862**
 
-# 💻 **MY TECH STACK:**
+# 💻 **MY TECH STACK**
 
 ## **LANGUAGES**
 
