@@ -80,7 +80,9 @@
 
 
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/920992520987607040">
+<!-- <img width="30%" align="right" src="https://luppufy-api.onrender.com/member/920992520987607040"> -->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/920992520987607040)](https://discord.com/users/920992520987607040)
 
 <p align="center"> 
   Visitor count<br>
