@@ -82,19 +82,6 @@
 
  <a href="https://discord.com/users/920992520987607040" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>     
 
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MrGrootx/count.svg" />
-</p> -->
-
-
-  ## 💰 **You can help me by Donating**
-- 💳 UPI - **mrgroot8@oksbi**
-
-
-
- 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MrGrootx/count.svg" />
@@ -103,6 +90,9 @@
 
   ## 💰 **You can help me by Donating**
 - 💳 UPI - **mrgroot8@oksbi**
+
+
+
 
 
 
