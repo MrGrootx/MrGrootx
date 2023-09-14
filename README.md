@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://https://discord.gg/Nm5FSxK2gv)
 ---
 
-- 📫 Email **grootmedias@gmail.com**
+- 📫 Email **grootxdev@gmail.com**
 - 🤖 Discord - **Mr Groot#9862**
 
 # 💻 **MY TECH STACK**
