@@ -26,8 +26,8 @@
 
 ## **GitHub Profile Stats** 
   <br/>
-    <a href="https://github.com/MrGrootx/github-readme-stats"><img alt="MrGrootx's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MrGrootx&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=000&title_color=fff&icon_color=00E676" height="215px"/></a> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGrootx&langs_count=20&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=400px " alt="MrGrootx" />
+    <a href="https://github.com/MrGrootx/github-readme-stats"><img alt="MrGrootx's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MrGrootx&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=000&title_color=fff&icon_color=00E676" height="192px"/></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGrootx&langs_count=20&show_icons=true&locale=en&layout=compact&theme=dark" alt="MrGrootx" />
   <br/>
 
 
