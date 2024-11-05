@@ -6,6 +6,7 @@ Game & Full Stack Web Developer
 
 Hi there! I'm Groot , a passionate developer who loves coding and exploring new things. I specialize in Web Development, Discord Bot and FiveM Development. With a keen interest in crafting innovative solutions, I find joy in bringing ideas to life through code..
 
+19yo
 *   🌍  I'm based in Earth
 *   ✉️  You can contact me at [grootdevelopmentx@gmail.com](mailto:grootdevelopmentx@gmail.com )
 *   🧠  I'm learning mysql & python
