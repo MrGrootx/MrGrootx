@@ -1,6 +1,6 @@
 Hi, I’m justgroot (real name? Maybe I’ll tell you later 😉).
 
-19 y/o | Self-taught Full Stack Web & Game Dev | Freelancer 💻
+Self-taught Full Stack Web & Game Dev | Freelancer 💻
 
 *   🌍  I'm based in Earth
 
