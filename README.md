@@ -1,14 +1,44 @@
-Hi, I’m justgroot (real name? Maybe I’ll tell you later 😉).
+# Hey, I'm just <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 Self-taught Full Stack Web & Game Dev | Freelancer 💻
 
-*   🌍  I'm based in Earth
+# 💻 Tech Stack:
+
+### Design
+
+[![My Graphic Skills](https://skillicons.dev/icons?i=ae,ai,figma,pr,ps&theme=light)](#)
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U812IP4U)
+### Front-End Development
 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-                
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,electron,html,js,jquery,materialui,nextjs,react,redux,remix,sass,svelte,tailwind,ts,vue&theme=light)](#)
+
+### Back-End Development
+
+[![My Skills](https://skillicons.dev/icons?i=express,java,nodejs&theme=light)](#)
+
+### Mobile App Development
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin&theme=light)](#)
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,sqlite,supabase&theme=light)](#)
+
+### Tooling
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,docker,firebase,github,githubactions,git,gitlab,idea,npm,obsidian,postman,pycharm,pnpm,raspberrypi,vscode,visualstudio,webstorm,yarn&theme=light)](#)
+
+
+### Operating Systems
+
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&theme=light)](#)
+
+
+### Deployments
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,netlify,vercel&theme=light)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
