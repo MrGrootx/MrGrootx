@@ -38,7 +38,3 @@ Self-taught Full Stack Web & Game Dev | Freelancer 💻
 ### Deployments
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,netlify,vercel&theme=light)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=MrGrootx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
